@@ -1,0 +1,8 @@
+package classTwo;
+import java.io.IOException;
+
+import javax.servlet.http.HttpServlet;
+
+public class Servlet3 extends HttpServlet{
+
+}

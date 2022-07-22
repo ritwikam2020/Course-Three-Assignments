@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\ritwi\Phase2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2537608397.index
+337162824.index
+3021853659.index
+1997451563.index
+1847882414.index
+3389827865.index
+672287048.index
+2596498796.index

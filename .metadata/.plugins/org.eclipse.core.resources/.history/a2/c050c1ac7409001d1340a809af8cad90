@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servlet1 Servlet2 Servlet3</title>
+</head>
+<body>
+<a href="servlet1">servlet1</a>
+<a href="servlet2">servlet2</a>
+<a href="servlet3">servlet3</a>
+</body>
+</html>
